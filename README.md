@@ -88,7 +88,7 @@ listen web_tcp
 
 ```
 
-![Название скриншота 1](ссылка на скриншот 1)
+![task_1.png](https://github.com/victorialugi/HAProxy/blob/main/task_1.png)
 
 
 ---
